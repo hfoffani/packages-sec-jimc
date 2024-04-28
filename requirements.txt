@@ -28,7 +28,7 @@ python-multipart==0.0.5
 pytz==2021.1
 raven==6.10.0
 requests==2.23.0
-scikit-learn==0.24.2
+scikit-learn==1.0.1
 scipy==1.11.1
 six==1.15.0
 sqlalchemy-stubs==0.3
