@@ -37,4 +37,4 @@ statsmodels==0.12.2
 tenacity==6.1.0
 threadpoolctl==2.1.0
 typer==0.3.2
-uvicorn==0.11.3
+uvicorn==0.11.7
