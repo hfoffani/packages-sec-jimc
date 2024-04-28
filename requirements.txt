@@ -7,7 +7,7 @@ celery==5.2.2
 click==7.1.2
 email-validator==1.0.5
 emails==0.5.15
-fastapi==0.54.1
+fastapi==0.109.1
 flake8==3.7.9
 gunicorn==22.0.0
 isort==4.3.21
